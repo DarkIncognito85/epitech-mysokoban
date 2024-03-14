@@ -1,0 +1,10 @@
+my_sokoban
+*.o
+map
+test.txt
+.idea
+.vscode
+my_sokoban
+map2
+map3
+map4
